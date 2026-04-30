@@ -1,6 +1,9 @@
 # RAG Document Assistant
 
 A portfolio-ready Retrieval-Augmented Generation (RAG) app that lets users upload a PDF or TXT document, ask questions about it, and receive answers grounded in retrieved source snippets.
+<img width="1891" height="834" alt="image" src="https://github.com/user-attachments/assets/b317fd5f-e5c8-4302-9871-2956c42e5d8d" />
+<img width="1877" height="715" alt="image" src="https://github.com/user-attachments/assets/d250b5cd-5fa1-4a81-9c6e-aa1a5a337376" />
+<img width="1878" height="841" alt="image" src="https://github.com/user-attachments/assets/560ccacb-113c-4e37-a676-e3d8f58777a1" />
 
 ## Features
 
